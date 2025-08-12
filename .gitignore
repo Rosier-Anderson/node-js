@@ -1,0 +1,4 @@
+# dont push node_modules 
+node_modules
+# dont push env files to github 
+.env

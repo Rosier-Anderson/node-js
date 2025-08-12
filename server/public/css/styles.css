@@ -1,0 +1,16 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color: black;
+}
+.global {
+  background-color: white;
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+span {
+  color: red;
+}

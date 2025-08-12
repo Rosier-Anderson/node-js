@@ -1,0 +1,6 @@
+2025-08-06	07:03:38	8d6d7d92-7ec7-4ef5-afd7-e0ffcd8cc6b9	Error : ENOENT: no such file or directory, stat '/Users/rosieranderson/Desktop/server/server/views/index.htm'
+
+2025-08-10	07:40:54	a8fa8b42-3207-4564-bc4e-1ccd16fa5bb1	TypeError : Cannot read properties of undefined (reading 'header')
+
+2025-08-10	08:01:57	fcc1611c-bb57-48c4-94a6-26460e8afc1a	TypeError : req.status is not a function
+
