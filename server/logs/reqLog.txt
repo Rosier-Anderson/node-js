@@ -70,3 +70,17 @@
 
 2025-08-14	06:37:34	36da8eee-0797-41b8-9a9a-290ff912fd17	POST undefined /register
 
+2025-08-14	07:10:24	75684901-0048-49ab-92a7-2e84ede1d6bf	GET undefined /
+
+2025-08-14	07:11:02	a4a8ae6e-7335-4263-9d19-78a94fba1029	POST undefined /auth
+
+2025-08-14	07:11:11	02b6690d-356d-440d-bfb9-f85027ff328c	POST undefined /auth
+
+2025-08-14	07:13:04	0277c168-3492-4977-b3ce-7f84f5d706e9	POST undefined /auth
+
+2025-08-14	07:17:53	325526c8-6ba8-4b76-b4d1-1f6473ed1eb7	POST undefined /auth
+
+2025-08-14	07:18:30	8a3756a6-2e77-4689-8825-e188079748d5	POST undefined /auth
+
+2025-08-14	07:18:35	a4355a93-bbe7-4234-82d1-2c28e06296a9	POST undefined /auth
+
