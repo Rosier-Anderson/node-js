@@ -30,3 +30,43 @@
 
 2025-08-11	08:48:08	9632d416-368c-45c2-971a-ea8152ac9aff	GET undefined /employees
 
+2025-08-14	03:41:20	0cdd75c9-ecab-4fdd-9c58-20e8465b1206	GET undefined /
+
+2025-08-14	03:41:20	5ee1a001-e921-4901-9b04-91ac72b32b02	GET undefined /favicon.ico
+
+2025-08-14	03:44:33	c0ec0f2e-a7b4-4a7c-bb5a-14be10df6af6	GET undefined /
+
+2025-08-14	03:48:37	0dcb3cd5-00b7-447a-b4f8-e0377123db0d	GET undefined /employees
+
+2025-08-14	04:32:14	1fb78018-feab-4d67-8d3a-24ebfe9ea70e	GET undefined /
+
+2025-08-14	05:14:14	26fc8efc-9ba7-4176-b264-4cd843744a54	POST undefined /register
+
+2025-08-14	05:14:33	0e5db5f2-778e-4e17-a8a9-7923519ab0c9	GET undefined /
+
+2025-08-14	05:43:55	20017d03-62b4-428e-8647-ea0d56b41987	POST undefined /register
+
+2025-08-14	05:43:57	1c74bfef-95c2-472f-b852-b11cd9487db8	POST undefined /register
+
+2025-08-14	05:45:37	e8367dc2-72cf-4ddb-a50f-ba524f7f344a	POST undefined /register
+
+2025-08-14	05:46:32	5204e546-a789-4398-95b4-6450ffb04a9d	GET undefined /
+
+2025-08-14	05:46:48	ae25ce3f-8eae-4f13-bcc2-0f110e27531e	GET undefined /
+
+2025-08-14	05:47:43	5f1b59af-c52c-4b6b-8731-56d1e7458e7c	POST undefined /register
+
+2025-08-14	06:14:29	727259aa-80e7-4603-8e68-d7455d36c9f5	POST undefined /register
+
+2025-08-14	06:15:34	6b4a6c4d-de6a-4e33-947e-1e42192308dc	GET undefined /
+
+2025-08-14	06:15:40	67303561-59db-468f-8163-24c940edd8dc	POST undefined /register
+
+2025-08-14	06:15:48	f750f95e-45ae-4311-954b-2a180aa982fd	POST undefined /register
+
+2025-08-14	06:19:39	a74f72fa-657d-4ca6-9f11-67a1d218510b	POST undefined /register
+
+2025-08-14	06:19:58	f3d2b4a4-5c77-445f-9b12-ff1ede0cb58c	POST undefined /register
+
+2025-08-14	06:37:34	36da8eee-0797-41b8-9a9a-290ff912fd17	POST undefined /register
+

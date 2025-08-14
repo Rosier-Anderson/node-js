@@ -15,7 +15,8 @@ app.use(logger);
 
 // paths
 app.use("/", require("./routes/root"));
-app.use("/employees", require("./routes/api/employees")) //api similator 
+app.use("/employees", require("./routes/api/employees")); //api similator
+app.use("/register", require("./routes/register"));
 // log 404s
 app.all("/*splat", (req, res) => {
   res.status(404);
