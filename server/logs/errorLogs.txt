@@ -18,3 +18,13 @@
 
 2025-08-14	06:19:58	7d2ed329-8dd0-4e28-a81c-75f6e3de1aa7	Error : Cannot set headers after they are sent to the client
 
+2025-08-15	05:55:14	bbd14098-ae81-40b1-bda4-57cd06594651	TypeError : Cannot destructure property 'user' of 'req.body' as it is undefined.
+
+2025-08-15	06:00:09	49603fdd-0751-41ec-86f1-ab414fecadae	Error : Cannot set headers after they are sent to the client
+
+2025-08-15	06:13:18	a9a228b8-5be5-4ff6-b104-5f9b19bbd56d	Error : Cannot set headers after they are sent to the client
+
+2025-08-15	09:03:54	212e0598-48c6-43fd-8495-5557c93d0aed	Error : "expiredIn" is not allowed in "options"
+
+2025-08-15	09:03:57	02c12a24-21cd-43ad-8903-214815d2cb6c	Error : "expiredIn" is not allowed in "options"
+

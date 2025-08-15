@@ -84,3 +84,367 @@
 
 2025-08-14	07:18:35	a4355a93-bbe7-4234-82d1-2c28e06296a9	POST undefined /auth
 
+2025-08-14	08:39:29	bf36c18c-a450-4f81-8a64-0ada6e12bf39	GET undefined /
+
+2025-08-14	08:39:29	09210e53-cf02-409a-bbc5-fae5241e818e	GET undefined /favicon.ico
+
+2025-08-15	05:55:04	5b91a385-eacd-4316-bcdd-9c3df9383ba7	GET undefined /auth
+
+2025-08-15	05:55:14	fbfcdd61-8cdf-49f0-9461-4e1570907e29	POST undefined /auth
+
+2025-08-15	05:56:31	17114789-f6e3-4fbf-85e7-672f3853753e	GET undefined /employees
+
+2025-08-15	05:56:51	f6c2fcae-ed98-409f-86bb-e766b90b6f93	GET undefined /register
+
+2025-08-15	05:56:53	9b144653-c47b-4bd6-9660-2d15ed27c19e	GET undefined /register
+
+2025-08-15	05:57:50	56d9cc74-50c8-4f1d-b559-24f28f34ffae	GET undefined /register
+
+2025-08-15	05:57:50	40c4e911-372f-41f3-b3c5-ceef79a47e27	GET undefined /register
+
+2025-08-15	05:58:11	a7f390a0-0752-4e2e-bbee-b29ba3e37c59	POST undefined /register
+
+2025-08-15	05:58:27	78c531a6-3c30-4d5c-803a-5afcb22c358c	POST undefined /register
+
+2025-08-15	05:59:02	b5a1451b-4d7f-4ba3-bc91-360c0843dd30	POST undefined /register
+
+2025-08-15	05:59:02	fca68eee-00fe-41a8-bb30-0f0c4aacf396	POST undefined /register
+
+2025-08-15	05:59:09	0845b4f9-ab12-4612-89a2-cb098772446f	POST undefined /register
+
+2025-08-15	05:59:33	411adc05-fa97-41b6-a3c1-d00003154ba7	POST undefined /register
+
+2025-08-15	05:59:38	8bec9f90-b10f-4bbb-869e-26d06dccbf6d	POST undefined /register
+
+2025-08-15	06:00:09	22ba076b-862e-4e8d-863e-8d20e0df6638	POST undefined /register
+
+2025-08-15	06:00:57	39812115-6b2e-406f-b61a-b9e194aa4d37	POST undefined /auth
+
+2025-08-15	06:01:22	1cc9c098-5b4a-4b55-a6c5-e30c3e05acb5	POST undefined /auth
+
+2025-08-15	06:01:24	8f53945b-a859-4d57-bef1-d2b7cfd42186	POST undefined /auth
+
+2025-08-15	06:01:25	902a27f4-4586-4cb7-b080-42030e729a9a	POST undefined /auth
+
+2025-08-15	06:01:25	9ed0f71f-7039-4857-b819-9407e71ffdee	POST undefined /auth
+
+2025-08-15	06:02:05	444b43c7-7532-429f-ab53-ac87bfac0cb7	POST undefined /auth
+
+2025-08-15	06:02:13	9049e6db-f8d4-400a-8a84-94ec4ea79186	GET undefined /register
+
+2025-08-15	06:02:21	7507418a-ac40-48ed-a14f-a294acbd3bcf	GET undefined /employees
+
+2025-08-15	06:02:24	da54ebe6-f045-4b84-8681-4b9badfa4286	POST undefined /auth
+
+2025-08-15	06:02:27	efc86fc6-3858-4614-9fb7-de7025c62b45	GET undefined /employees
+
+2025-08-15	06:02:28	951bef23-12d8-4ac4-8e80-d9659f075d84	GET undefined /employees
+
+2025-08-15	06:02:29	30eeb1a7-b726-4f21-a68c-72f91602c1b0	GET undefined /employees
+
+2025-08-15	06:02:30	3fc76a40-ebeb-40e0-afe0-f92bb2b3a7ad	GET undefined /employees
+
+2025-08-15	06:02:31	43ce69a4-3895-4aaa-bc6d-93c2832eb68f	GET undefined /employees
+
+2025-08-15	06:02:32	7f5042b9-77f4-41e8-8827-975c03909075	GET undefined /employees
+
+2025-08-15	06:02:38	d1e5ce56-bad6-46e3-bfbf-7988413fa561	GET undefined /employees
+
+2025-08-15	06:02:39	7454c3b0-d876-4115-8788-d730feb338b9	GET undefined /employees
+
+2025-08-15	06:02:41	9a556b5d-1ef2-4188-b5c2-2fb53e25cbe5	POST undefined /auth
+
+2025-08-15	06:02:43	9d313fdc-6764-4f50-ab91-ba010b3e7415	GET undefined /employees
+
+2025-08-15	06:02:44	4b82f16b-0031-48e7-85d5-6e3d86f8c747	GET undefined /employees
+
+2025-08-15	06:02:44	46d416e4-076c-40ee-b060-65bd7e94164e	GET undefined /employees
+
+2025-08-15	06:02:44	1b0719bf-21db-40c1-92f6-4794888fafb2	GET undefined /employees
+
+2025-08-15	06:02:44	43bdc6c8-cbae-4bc2-b869-2f8c39ea7f50	GET undefined /employees
+
+2025-08-15	06:03:47	5a85413a-1d3c-4c7f-9471-959b30bbf1c3	POST undefined /auth
+
+2025-08-15	06:03:58	8c50fddb-64f0-4b68-8eb6-692b9a513468	POST undefined /auth
+
+2025-08-15	06:04:02	aa3e400e-4ebb-46b6-93f6-f99936b50ee9	GET undefined /employees
+
+2025-08-15	06:04:03	34bc8640-2a79-4c90-bebd-d509f7e82bd4	GET undefined /employees
+
+2025-08-15	06:04:09	376977b9-1fe7-4c64-8116-35941f192880	GET undefined /employees
+
+2025-08-15	06:04:13	d5e04e92-3d55-49eb-a347-fcb0b72adacf	POST undefined /auth
+
+2025-08-15	06:04:16	f779d9b0-db9d-4240-aae8-f619662d656a	GET undefined /employees
+
+2025-08-15	06:04:17	4ebb1fe6-a91f-45db-9af4-d0367c48b785	GET undefined /employees
+
+2025-08-15	06:06:37	b1ea9521-12a9-41fe-b52e-3502996f783e	GET undefined /employees
+
+2025-08-15	06:07:02	a0248833-2d1a-4b01-b3da-aa94ab9f1ac4	POST undefined /auth
+
+2025-08-15	06:07:08	1d38d369-7c13-443d-a218-246f3707ee7e	GET undefined /employees
+
+2025-08-15	06:07:09	ed5a614a-8294-45bb-b290-b11231750022	GET undefined /employees
+
+2025-08-15	06:08:15	3716e3f4-f4a2-464d-9ae5-fe2516a36195	POST undefined /auth
+
+2025-08-15	06:08:17	4f85308c-3ea0-4e97-9842-ba366851a775	POST undefined /auth
+
+2025-08-15	06:08:27	05075c7d-babc-4df7-a4b0-6c0ccbd49b84	GET undefined /employees
+
+2025-08-15	06:08:29	0718fbbb-4d48-42f2-9bd1-87371a56922f	GET undefined /employees
+
+2025-08-15	06:08:39	e0aa6f47-6727-42a6-9712-d3ea7e824eb6	POST undefined /auth
+
+2025-08-15	06:10:30	d36f34e1-bcc6-4c0c-a39f-806fc0361fe4	GET undefined /employees
+
+2025-08-15	06:10:31	90197ddf-03b1-457b-8a6c-2d292d5dd049	GET undefined /employees
+
+2025-08-15	06:11:32	2f80fd6d-b968-445b-86ee-472e67b6fc14	GET undefined /employees
+
+2025-08-15	06:11:39	0227e292-7c9a-4e09-9911-e375643c2d26	GET undefined /employees
+
+2025-08-15	06:13:18	b271f7e2-ee83-4589-af55-1d3d45ad328c	POST undefined /register
+
+2025-08-15	06:13:31	ca4208e1-41c9-42c8-a741-3140f742feaa	POST undefined /auth
+
+2025-08-15	06:13:44	a34b8f21-f99d-4d7d-b0d5-721c4b3a273b	GET undefined /employees
+
+2025-08-15	06:13:45	1ff5c7f4-6b4a-48be-a0a9-fb74ad30be0f	GET undefined /employees
+
+2025-08-15	06:19:35	8b1558a5-fd45-43ac-bb4c-fde9337564c3	POST undefined /auth
+
+2025-08-15	06:19:47	2f843272-bcc6-480f-bfac-b65971ae0334	GET undefined /employees
+
+2025-08-15	06:19:48	56a1d2f1-22a1-4823-bc63-a8c59519ceb7	GET undefined /employees
+
+2025-08-15	06:19:55	652687c9-169c-4174-b56f-81056a184c26	POST undefined /auth
+
+2025-08-15	06:20:07	db4ba485-f964-4cbe-8071-aa4ee5474a1c	GET undefined /employees
+
+2025-08-15	06:20:35	b478c10e-0218-40a1-a66b-2b361ebf8491	GET undefined /employees
+
+2025-08-15	06:21:00	3c7f70b7-3ea8-4763-8667-8f13b1219409	POST undefined /register
+
+2025-08-15	06:22:11	b68b4bf4-6896-42d1-9901-5a3953c3ce09	GET undefined /employees
+
+2025-08-15	06:22:24	48cb2b20-1178-4cfb-b1e5-3750aa7de751	GET undefined /employees
+
+2025-08-15	06:23:04	83cda943-20bd-472b-a28f-0ea7a069406a	GET undefined /employees
+
+2025-08-15	06:23:07	3bc9b91b-8aa0-4f80-b172-58d9c7e99c9a	POST undefined /auth
+
+2025-08-15	06:23:14	8dd068fa-5b21-4de3-a9e1-3a73d782bdf3	GET undefined /employees
+
+2025-08-15	06:23:16	0c7ca16e-e9e8-41f5-a056-0d9ea787513f	GET undefined /employees
+
+2025-08-15	06:23:18	a681c56c-63e6-4843-ab9d-b6fe2d73b843	GET undefined /employees
+
+2025-08-15	06:23:19	e10ef5ad-f5e4-431e-8d07-5119ab25fcdd	GET undefined /employees
+
+2025-08-15	06:23:19	29aba8e9-5f57-44b1-ae44-b2c8e7f719b0	GET undefined /employees
+
+2025-08-15	06:23:20	e629b21c-24fc-4c57-a10e-26e860a89510	GET undefined /employees
+
+2025-08-15	06:23:20	bd4c8fa4-57df-4b5d-8d01-f390d6e401f6	GET undefined /employees
+
+2025-08-15	06:23:20	ae8942a2-5928-4056-a4c7-0d34914e3f43	GET undefined /employees
+
+2025-08-15	06:23:20	27dcd740-0861-48fe-9ffd-278b1808c06c	GET undefined /employees
+
+2025-08-15	06:23:21	551ae3cf-56c9-4411-9cbb-76777e775ac7	GET undefined /employees
+
+2025-08-15	06:23:21	65a36be9-452e-4403-92a1-652212a388fb	GET undefined /employees
+
+2025-08-15	06:23:21	cfc3d2db-c862-436b-be76-75c13797dbec	GET undefined /employees
+
+2025-08-15	06:23:21	b47e5a4f-2c3b-48cd-89cf-77fbd3db02ec	GET undefined /employees
+
+2025-08-15	06:23:22	c6b6fd68-e99a-4bd1-812f-f82865d65174	GET undefined /employees
+
+2025-08-15	06:23:22	c1eb80aa-be88-4411-86cb-77ad5cc4e1ea	GET undefined /employees
+
+2025-08-15	06:23:22	69e9247e-1679-45ab-8dd8-2d66dbf4a82e	GET undefined /employees
+
+2025-08-15	06:23:22	8cec2fed-ac96-4a89-bcbb-601564513250	GET undefined /employees
+
+2025-08-15	06:23:23	903c1723-50e0-4cde-9fb2-0ad41d809e16	GET undefined /employees
+
+2025-08-15	06:23:23	0d10ce18-ff22-497a-97f6-49d097a535dc	GET undefined /employees
+
+2025-08-15	06:23:23	0fac97a9-08de-4200-8e50-f4e6e194785a	GET undefined /employees
+
+2025-08-15	06:23:23	9cc88d3b-b48e-4d03-bb5f-6bbdb6b83fb2	GET undefined /employees
+
+2025-08-15	06:23:26	97c7861b-72eb-418c-b34c-434476769fba	GET undefined /employees
+
+2025-08-15	06:23:27	8d3eb87f-c525-4071-8cb3-e8860e0b93e6	GET undefined /employees
+
+2025-08-15	06:23:29	3bf8fe80-5a65-4159-8f95-09e1d4e0904e	GET undefined /employees
+
+2025-08-15	06:23:50	f56808db-268f-4e5e-adc4-59c539389de0	GET undefined /employees
+
+2025-08-15	06:23:52	fe35408a-83b6-4926-be9b-825fa05c2f70	GET undefined /employees
+
+2025-08-15	06:24:41	282a9dae-5301-498d-803f-a074394fe04b	POST undefined /auth
+
+2025-08-15	06:24:52	bf5d979f-517b-419a-bf7c-cc363813835e	GET undefined /employees
+
+2025-08-15	06:29:22	23385fb0-f470-41e9-95aa-3465a3792add	POST undefined /auth
+
+2025-08-15	06:30:07	e3435231-4045-4ff6-a9aa-6ca4e669abc0	GET undefined /employees
+
+2025-08-15	06:30:34	e0f59e7f-64ad-4443-b150-36fe7841d79e	GET undefined /employees
+
+2025-08-15	06:30:35	088dee10-7909-4491-845b-e0796f098d76	GET undefined /employees
+
+2025-08-15	06:44:29	0c43f55d-8a93-4214-8c66-305e38c24a50	GET undefined /employees
+
+2025-08-15	07:07:31	e74cd319-4152-4550-b6d6-508f69d1c5b4	GET undefined /employees
+
+2025-08-15	07:07:32	31cbc4f2-07cd-4729-8dc9-cc78bf966c3f	GET undefined /employees
+
+2025-08-15	07:07:32	3be76c6e-182d-4d80-b536-3a5d97a7c84c	GET undefined /employees
+
+2025-08-15	07:07:49	bf65864c-7890-4d88-9bce-9614ed8817bd	GET undefined /employees
+
+2025-08-15	07:07:50	799ab42d-11fa-4465-9c3e-2ae97bc1eb95	GET undefined /employees
+
+2025-08-15	07:07:51	53791229-b3da-45e6-a5c2-e8f385e40069	GET undefined /employees
+
+2025-08-15	07:08:03	9972c617-cbce-4a17-853c-e7624f1ed596	GET undefined /employees
+
+2025-08-15	07:08:04	b9974f3c-31c8-4950-b8b0-78a329dce191	GET undefined /employees
+
+2025-08-15	07:08:06	3d88cd95-5ed9-4a35-a549-508b9a583249	GET undefined /employees
+
+2025-08-15	07:08:07	4d05341b-e1a4-49f0-8184-318f90a201d7	GET undefined /employees
+
+2025-08-15	07:08:11	ad29a848-dc60-452f-a459-269bec9316d6	GET undefined /employees
+
+2025-08-15	07:22:13	867cbc74-0de7-4213-8df0-41c1643aa7cd	GET undefined /employees
+
+2025-08-15	07:22:24	c3c8718c-bd7c-474a-b0ee-f9799e3bd25f	POST undefined /auth
+
+2025-08-15	07:22:31	7b11100a-d218-4a02-9a66-45374b55ae81	POST undefined /auth
+
+2025-08-15	07:22:58	ac7b151a-412b-4347-8091-17d88101eee3	POST undefined /auth
+
+2025-08-15	09:03:54	90277bf5-0c94-4382-81d0-3c65beec0be8	POST undefined /auth
+
+2025-08-15	09:03:57	59721123-444f-4b3b-a2ed-829650b82c65	POST undefined /auth
+
+2025-08-15	09:05:26	84b01841-43af-427b-9b26-8577e8d62dc5	POST undefined /auth
+
+2025-08-15	09:05:40	b72ab751-4b58-4ac2-b381-ae45924b9cec	GET undefined /employees
+
+2025-08-15	09:05:42	215dc9ca-86f2-40e6-9ebe-abaf05c3f485	GET undefined /employees
+
+2025-08-15	09:05:42	fc26899e-55ac-4c39-91be-5491790135bd	GET undefined /employees
+
+2025-08-15	09:05:43	7d5bf484-ba5f-4c0a-8d87-3503a8d7d0a4	GET undefined /employees
+
+2025-08-15	09:05:43	e88c79b6-1be0-4a9d-8092-71ec3fe76bc4	GET undefined /employees
+
+2025-08-15	09:05:44	b8c42681-2663-42cd-a308-6dda05d39181	GET undefined /employees
+
+2025-08-15	09:05:45	f78fa74e-8c06-49b2-97a7-0858cd6fb2a1	GET undefined /employees
+
+2025-08-15	09:05:45	f22b3eb8-16f8-4a79-af21-ded3633ca05d	GET undefined /employees
+
+2025-08-15	09:05:45	015f1bb9-5450-4781-bb69-868832c2ac8a	GET undefined /employees
+
+2025-08-15	09:05:46	ea382099-9f7b-43bf-8b83-7d018ee60a4c	GET undefined /employees
+
+2025-08-15	09:05:46	81eae01e-8813-494f-ac90-958f0a0715d0	GET undefined /employees
+
+2025-08-15	09:05:46	c8b52c8a-e69f-4fd3-bbda-a5d4541176d5	GET undefined /employees
+
+2025-08-15	09:05:46	374de3f4-a6d1-4a93-91ca-ddbc3d497f08	GET undefined /employees
+
+2025-08-15	09:05:46	3536c059-982b-4915-b8ca-d6f4758db74d	GET undefined /employees
+
+2025-08-15	09:05:47	c0b1e1ac-a401-4bc9-823f-a29564e3de83	GET undefined /employees
+
+2025-08-15	09:05:47	7b7e9fd6-8827-4357-84f0-7b5c56801d33	GET undefined /employees
+
+2025-08-15	09:05:47	dfda9bc1-7985-48ef-9910-bbcabf74ef7c	GET undefined /employees
+
+2025-08-15	09:05:48	32a4782c-75e3-40d5-9fd2-df2d14a75bff	GET undefined /employees
+
+2025-08-15	09:05:48	c544d3ec-e786-47e5-8d8f-b16036fd651f	GET undefined /employees
+
+2025-08-15	09:05:48	546dbb38-be11-4f71-b7d4-b0aeda9c3975	GET undefined /employees
+
+2025-08-15	09:05:48	6ad6bc1f-6b7b-453d-b8ac-b56122777529	GET undefined /employees
+
+2025-08-15	09:05:48	659f49f4-d34d-4409-8f09-e34680ff0de9	GET undefined /employees
+
+2025-08-15	09:05:49	afb1a351-5155-4487-844e-b50d3a5cfa8d	GET undefined /employees
+
+2025-08-15	09:05:49	bd92cb9a-ae24-4a56-ba96-399cf34731c7	GET undefined /employees
+
+2025-08-15	09:05:49	d803cc48-c02f-4fc7-996a-0dedcea03ebe	GET undefined /employees
+
+2025-08-15	09:05:49	bff5afd6-c98e-4b49-88ba-6426610f29a5	GET undefined /employees
+
+2025-08-15	09:05:50	71a341d3-3124-4200-ad62-b250208b9388	GET undefined /employees
+
+2025-08-15	09:05:50	1e0c76f5-a069-4fa9-b85a-3096dfface05	GET undefined /employees
+
+2025-08-15	09:05:50	2122eac3-3237-4b9a-bdb5-0190db84a156	GET undefined /employees
+
+2025-08-15	09:05:50	1f3832ba-0676-471b-b7cd-16583c2e6ba0	GET undefined /employees
+
+2025-08-15	09:05:51	29891c81-0992-4378-9db1-2e701171c8cd	GET undefined /employees
+
+2025-08-15	09:05:51	c5308973-81fc-4076-ad29-a4164aa3cb08	GET undefined /employees
+
+2025-08-15	09:05:51	e13e2653-4504-44fd-ab7a-1bc516c3f64f	GET undefined /employees
+
+2025-08-15	09:05:53	b728f236-f529-4a41-83ee-f3459fcb832b	GET undefined /employees
+
+2025-08-15	09:05:53	42395412-7aab-4c29-a42f-6c777d9f3846	GET undefined /employees
+
+2025-08-15	09:05:54	6b04a04e-4c66-4316-853e-76499cd9a8b2	GET undefined /employees
+
+2025-08-15	09:05:54	8110ede7-ce50-4f4d-812c-8644f09c4f85	GET undefined /employees
+
+2025-08-15	09:05:54	50107794-513a-4431-a4ce-86bc5b3e82b0	GET undefined /employees
+
+2025-08-15	09:05:55	c0f2881c-35e5-4c28-a7a4-da0015d039f9	GET undefined /employees
+
+2025-08-15	09:05:55	267e4278-419c-44b4-b7d7-0aac083f56f8	GET undefined /employees
+
+2025-08-15	09:05:56	807217a9-22f0-44af-be55-a75595e0972d	GET undefined /employees
+
+2025-08-15	09:05:56	000db07c-c752-45d8-9ac3-f769ca5b096c	GET undefined /employees
+
+2025-08-15	09:05:57	e920ff64-0d11-4d5d-b092-3c66332cfd8c	GET undefined /employees
+
+2025-08-15	09:05:58	eb45f801-714f-4ba1-8c1d-5e07d93c71d8	GET undefined /employees
+
+2025-08-15	09:05:58	03c771b9-7700-4c3a-8f39-946ccd6d7689	GET undefined /employees
+
+2025-08-15	09:05:59	246c0b68-1c04-4581-8758-ea01630caf62	GET undefined /employees
+
+2025-08-15	09:18:32	e1b44f55-6084-44f4-a53d-59545b920309	GET undefined /employees
+
+2025-08-15	09:18:38	8c90a5c4-bafa-4faf-9e5f-53073fff5388	POST undefined /auth
+
+2025-08-15	09:18:48	7da0f15d-a280-4abd-90d6-b0192877b582	GET undefined /employees
+
+2025-08-15	09:19:09	3f6e620a-ec22-482a-aff5-bd08ebcf7b3b	GET undefined /employees
+
+2025-08-15	09:19:30	b32f3d33-a828-41d8-acef-d1e81e1a5d30	GET undefined /employees
+
+2025-08-15	09:20:55	aeeb35d7-7fd3-4a39-befe-a1c296f2d426	GET undefined /employees
+
+2025-08-15	09:21:17	6faa0e27-5e23-4b50-8bdb-d338920c46e5	POST undefined /auth
+
+2025-08-15	09:21:33	152ee6cd-7d45-46df-9fea-7e00d2a3f3ee	POST undefined /auth
+
+2025-08-15	09:24:58	8e8faee5-26e3-4583-8b73-900360efee87	POST undefined /auth
+
