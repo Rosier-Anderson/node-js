@@ -28,3 +28,9 @@
 
 2025-08-15	09:03:57	02c12a24-21cd-43ad-8903-214815d2cb6c	Error : "expiredIn" is not allowed in "options"
 
+2025-08-16	10:35:50	face1966-77f8-4af2-aa87-e2a0920b062c	TypeError : userDB.users is not a function
+
+2025-08-16	01:18:18	a02bdffb-3e1f-4e6b-a698-481545b141a0	Error : Cannot set headers after they are sent to the client
+
+2025-08-16	01:20:40	6bd33faf-6ec3-435c-809c-1bfdae9c2521	Error : Cannot set headers after they are sent to the client
+

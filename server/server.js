@@ -1,34 +1,34 @@
 const express = require("express");
-const app = express();
+const server = express();
 const path = require("path");
 const errorHandler = require("./middleware/errorHandler");
 const { logger } = require("./middleware/logEvents");
 const verifyJWT = require("./middleware/verifyJWT");
-const cookieParser = require("cookie-parser")
+const cookieParser = require("cookie-parser");
 
 // initialise the port
 const PORT = process.env.PORT || 3500;
 // allow json
-app.use(express.json());
+server.use(express.json());
 // exporting plublic files
-app.use("/", express.static(path.join(__dirname, "/public")));
-//cokies 
-app.use(cookieParser())
+server.use("/", express.static(path.join(__dirname, "/public")));
+//cookies
+server.use(cookieParser());
 //logs all request and errors
-app.use(logger);
+server.use(logger);
 
-// routes 
-app.use("/", require("./routes/root"));
+// routes
+server.use("/", require("./routes/root"));
 
-app.use("/register", require("./routes/register")); // handle users data
- app.use("/auth", require("./routes/auth")); //handle users login
-  app.use("/refresh", require("./routes/refresh"))
-app.use(verifyJWT)
-app.use("/employees", require("./routes/api/employees")); //api similator
-
+server.use("/register", require("./routes/register")); // handle users data
+server.use("/auth", require("./routes/auth")); //handle users login
+server.use("/refresh", require("./routes/refresh"));
+server.use("/logout", require("./routes/logout"));
+server.use(verifyJWT);
+server.use("/employees", require("./routes/api/employees")); //api similator
 
 //  404s
-app.all("/*splat", (req, res) => {
+server.all("/*splat", (req, res) => {
   res.status(404);
   if (req.accepts("html")) {
     res.sendFile(path.join(__dirname, "views", "404.html"));
@@ -38,8 +38,8 @@ app.all("/*splat", (req, res) => {
     res.type("text").send("404 Not Found");
   }
 });
-app.use(errorHandler);
-app.listen(PORT, (err) => {
+server.use(errorHandler);
+server.listen(PORT, (err) => {
   if (err) {
     console.log(err);
   }

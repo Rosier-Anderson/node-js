@@ -29,7 +29,7 @@ const handleLogin = async (req, res) => {
         expiresIn: "30s",
       }
     );
-    const refershToken = jwt.sign(
+    const refreshToken = jwt.sign(
       { username: foundUser.username },
       process.env.REFRESH_TOKEN_SECRET,
       {
@@ -40,14 +40,14 @@ const handleLogin = async (req, res) => {
     const otherUsers = userDB.users.filter(
       (person) => person.username !== foundUser.username
     );
-    const currentUser = { ...foundUser, refershToken };
+    const currentUser = { ...foundUser, refreshToken };
     //update userDb
     userDB.setUsers([...otherUsers, currentUser]);
     await fsPromises.writeFile(
       path.join(__dirname, "..", "model", "users.json"),
       JSON.stringify(userDB.users)
     );
-    res.cookie("jwt", refershToken, { httpOnly: true, maxAge: 24 * 60 * 60 * 1000 });
+    res.cookie("jwt", refreshToken, { httpOnly: true, maxAge: 24 * 60 * 60 * 1000 });
     res.json({ accesToken });
   } else {
     res.sendStatus(401); // Forbidden
