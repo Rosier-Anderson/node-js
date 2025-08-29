@@ -1,5 +1,5 @@
 const express = require("express");
-const server = express();
+const app = express();
 const path = require("path");
 const errorHandler = require("./middleware/errorHandler");
 const { logger } = require("./middleware/logEvents");
@@ -9,26 +9,26 @@ const cookieParser = require("cookie-parser");
 // initialise the port
 const PORT = process.env.PORT || 3500;
 // allow json
-server.use(express.json());
+app.use(express.json());
 // exporting plublic files
-server.use("/", express.static(path.join(__dirname, "/public")));
+app.use("/", express.static(path.join(__dirname, "/public")));
 //cookies
-server.use(cookieParser());
+app.use(cookieParser());
 //logs all request and errors
-server.use(logger);
+app.use(logger);
 
 // routes
-server.use("/", require("./routes/root"));
+app.use("/", require("./routes/root"));
 
-server.use("/register", require("./routes/register")); // handle users data
-server.use("/auth", require("./routes/auth")); //handle users login
-server.use("/refresh", require("./routes/refresh"));
-server.use("/logout", require("./routes/logout"));
-server.use(verifyJWT);
-server.use("/employees", require("./routes/api/employees")); //api similator
+app.use("/register", require("./routes/register")); // handle users data
+app.use("/auth", require("./routes/auth")); //handle users login
+app.use("/refresh", require("./routes/refresh"));
+app.use("/logout", require("./routes/logout"));
+app.use(verifyJWT);
+app.use("/employees", require("./routes/api/employees")); //api similator
 
 //  404s
-server.all("/*splat", (req, res) => {
+app.all("/*splat", (req, res) => {
   res.status(404);
   if (req.accepts("html")) {
     res.sendFile(path.join(__dirname, "views", "404.html"));
@@ -38,10 +38,10 @@ server.all("/*splat", (req, res) => {
     res.type("text").send("404 Not Found");
   }
 });
-server.use(errorHandler);
-server.listen(PORT, (err) => {
+app.use(errorHandler);
+app.listen(PORT, (err) => {
   if (err) {
     console.log(err);
   }
-  console.log(`Server is running on port ${PORT}`);
+  console.log(`app is running on port ${PORT}`);
 });

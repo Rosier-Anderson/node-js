@@ -1,1 +1,20 @@
-[{"username":"rosier","password":"$2b$10$1aGWQzFMMDtxv6ncvsBGfejqFCKqCDiNviGL9bO4nZ85Fgmpy7Ivm","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvc2llciIsImlhdCI6MTc1NTM4NTc4NiwiZXhwIjoxNzU1NDcyMTg2fQ.YrewNIgSYKX9ZaKyau0MIoHzaqq5TSIjKCELlDeR9Lc"},{"username":"rosier","password":"$2b$10$1aGWQzFMMDtxv6ncvsBGfejqFCKqCDiNviGL9bO4nZ85Fgmpy7Ivm","refreshToken":""}]
+[
+  {
+    "username": "rosier",
+    "roles": {
+      "Admin": 2004,
+      "User": 20011,
+      "Editor": 199012
+    },
+    "password": "$2b$10$1aGWQzFMMDtxv6ncvsBGfejqFCKqCDiNviGL9bO4nZ85Fgmpy7Ivm",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvc2llciIsImlhdCI6MTc1NTM4NTc4NiwiZXhwIjoxNzU1NDcyMTg2fQ.YrewNIgSYKX9ZaKyau0MIoHzaqq5TSIjKCELlDeR9Lc"
+  },
+  {
+    "username": "rosier",
+    "roles": {
+      "User": 20011
+    },
+    "password": "$2b$10$1aGWQzFMMDtxv6ncvsBGfejqFCKqCDiNviGL9bO4nZ85Fgmpy7Ivm",
+    "refreshToken": ""
+  }
+]
